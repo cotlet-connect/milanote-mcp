@@ -106,6 +106,7 @@ Milanote has no official MCP server listed in the ChatGPT or Claude directories.
 - [Milanote on Cotlet.dev](https://cotlet.dev/integrations/milanote-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=milanote&utm_content=find)
 - [PyPI package milanote-mcp](https://pypi.org/project/milanote-mcp/)
 - [Odel](https://odel.app/modules/cotlet/milanote)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/milanote/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-milanote-to-ai-agents-guide)
 
 ## Also works with
